@@ -1,0 +1,16 @@
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\bin\Debug\net8.0-windows\Q6(SimpleCalculator).exe
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\bin\Debug\net8.0-windows\Q6(SimpleCalculator).deps.json
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\bin\Debug\net8.0-windows\Q6(SimpleCalculator).runtimeconfig.json
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\bin\Debug\net8.0-windows\Q6(SimpleCalculator).dll
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\bin\Debug\net8.0-windows\Q6(SimpleCalculator).pdb
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\obj\Debug\net8.0-windows\Q6_SimpleCalculator_.Form1.resources
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\obj\Debug\net8.0-windows\Q6(SimpleCalculator).csproj.GenerateResource.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\obj\Debug\net8.0-windows\Q6(SimpleCalculator).GeneratedMSBuildEditorConfig.editorconfig
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\obj\Debug\net8.0-windows\Q6(SimpleCalculator).AssemblyInfoInputs.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\obj\Debug\net8.0-windows\Q6(SimpleCalculator).AssemblyInfo.cs
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\obj\Debug\net8.0-windows\Q6(SimpleCalculator).csproj.CoreCompileInputs.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\obj\Debug\net8.0-windows\Q6(SimpleCalculator).dll
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\obj\Debug\net8.0-windows\refint\Q6(SimpleCalculator).dll
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\obj\Debug\net8.0-windows\Q6(SimpleCalculator).pdb
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\obj\Debug\net8.0-windows\Q6(SimpleCalculator).genruntimeconfig.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q6(SimpleCalculator)\Q6(SimpleCalculator)\obj\Debug\net8.0-windows\ref\Q6(SimpleCalculator).dll

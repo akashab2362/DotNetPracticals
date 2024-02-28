@@ -1,0 +1,30 @@
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\bin\Debug\net6.0\Question4.exe
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\bin\Debug\net6.0\Question4.deps.json
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\bin\Debug\net6.0\Question4.runtimeconfig.json
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\bin\Debug\net6.0\Question4.dll
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\bin\Debug\net6.0\Question4.pdb
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\obj\Debug\net6.0\Question4.csproj.AssemblyReference.cache
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\obj\Debug\net6.0\Question4.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\obj\Debug\net6.0\Question4.AssemblyInfoInputs.cache
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\obj\Debug\net6.0\Question4.AssemblyInfo.cs
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\obj\Debug\net6.0\Question4.csproj.CoreCompileInputs.cache
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\obj\Debug\net6.0\Question4.dll
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\obj\Debug\net6.0\refint\Question4.dll
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\obj\Debug\net6.0\Question4.pdb
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\obj\Debug\net6.0\Question4.genruntimeconfig.cache
+Z:\Semester2\DOTNET\Assignment1\Question4\Question4\obj\Debug\net6.0\ref\Question4.dll
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\bin\Debug\net6.0\Question4.exe
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\bin\Debug\net6.0\Question4.deps.json
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\bin\Debug\net6.0\Question4.runtimeconfig.json
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\bin\Debug\net6.0\Question4.dll
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\bin\Debug\net6.0\Question4.pdb
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\obj\Debug\net6.0\Question4.csproj.AssemblyReference.cache
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\obj\Debug\net6.0\Question4.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\obj\Debug\net6.0\Question4.AssemblyInfoInputs.cache
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\obj\Debug\net6.0\Question4.AssemblyInfo.cs
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\obj\Debug\net6.0\Question4.csproj.CoreCompileInputs.cache
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\obj\Debug\net6.0\Question4.dll
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\obj\Debug\net6.0\refint\Question4.dll
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\obj\Debug\net6.0\Question4.pdb
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\obj\Debug\net6.0\Question4.genruntimeconfig.cache
+Z:\Dot Net Practical\Assignment1\Q 1\Question2\Question4\obj\Debug\net6.0\ref\Question4.dll

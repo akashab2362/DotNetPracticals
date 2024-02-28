@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MSC Computer Science\\Semester 2\\DOT NET Practicals\\Assignment based on Windows Form Application\\Q3TshirtOrderingCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6790C5-1684-478A-A97B-34C270E3926C}|Q3TshirtOrderingCalculator\\Q3TshirtOrderingCalculator.csproj|d:\\msc computer science\\semester 2\\dot net practicals\\assignment based on windows form application\\q3tshirtorderingcalculator\\q3tshirtorderingcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D6790C5-1684-478A-A97B-34C270E3926C}|Q3TshirtOrderingCalculator\\Q3TshirtOrderingCalculator.csproj|solutionrelative:q3tshirtorderingcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6790C5-1684-478A-A97B-34C270E3926C}|Q3TshirtOrderingCalculator\\Q3TshirtOrderingCalculator.csproj|d:\\msc computer science\\semester 2\\dot net practicals\\assignment based on windows form application\\q3tshirtorderingcalculator\\q3tshirtorderingcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6790C5-1684-478A-A97B-34C270E3926C}|Q3TshirtOrderingCalculator\\Q3TshirtOrderingCalculator.csproj|solutionrelative:q3tshirtorderingcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\MSC Computer Science\\Semester 2\\DOT NET Practicals\\Assignment based on Windows Form Application\\Q3TshirtOrderingCalculator\\Q3TshirtOrderingCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Q3TshirtOrderingCalculator\\Form1.cs",
+              "ToolTip": "D:\\MSC Computer Science\\Semester 2\\DOT NET Practicals\\Assignment based on Windows Form Application\\Q3TshirtOrderingCalculator\\Q3TshirtOrderingCalculator\\Form1.cs",
+              "RelativeToolTip": "Q3TshirtOrderingCalculator\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:10:04.666Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\MSC Computer Science\\Semester 2\\DOT NET Practicals\\Assignment based on Windows Form Application\\Q3TshirtOrderingCalculator\\Q3TshirtOrderingCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Q3TshirtOrderingCalculator\\Form1.cs",
+              "ToolTip": "D:\\MSC Computer Science\\Semester 2\\DOT NET Practicals\\Assignment based on Windows Form Application\\Q3TshirtOrderingCalculator\\Q3TshirtOrderingCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Q3TshirtOrderingCalculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:58:07.203Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
